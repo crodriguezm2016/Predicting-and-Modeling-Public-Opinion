@@ -2,9 +2,7 @@
 title: "Senior Project"
 author: "Carlos Rodriguez-Munoz"
 date: "1/25/2021"
-output:
-  pdf_document: default
-  html_document: default
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
